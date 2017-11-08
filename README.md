@@ -7,9 +7,11 @@ SOMO Library for the gen4-IoD and IoD-09 by 4D Systems
 Please refer to the gen4-IoD or IoD-09 Datasheets and supporting library / library documentation for GFX4D/GFX4DIoD9 for more information.
 
 [gen4-IoD Product Page](http://www.4dsystems.com.au/product/gen4-IoD/)
+
 [IoD-09 Product Page](http://www.4dsystems.com.au/product/IoD_09/)
 
 [GFX4D Library for gen4-IoD](https://github.com/4dsystems/GFX4d)
+
 [GFX4DIoD9 Library for IoD-09](https://github.com/4dsystems/GFX4DIoD9)
 
 ## Installation of this SOMOIoD Library
