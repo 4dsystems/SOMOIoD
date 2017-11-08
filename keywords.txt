@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For SOMOIoD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PLAY	KEYWORD3
+STOP	KEYWORD3
+PREVIOUS	KEYWORD3
+NEXT	KEYWORD3
+SOURCE_SD	KEYWORD3
+SOURCE_USB	KEYWORD3
+EQ_BASS	KEYWORD3
+VOLUMEMAX	KEYWORD3
+VOLUMEMIN	KEYWORD3
+VOLUMEUP	KEYWORD3
+VOLUMEDOWN	KEYWORD3
+CONTINUOUS	KEYWORD3
+RANDOM	KEYWORD3
+PAUSE	KEYWORD3
+EQ_NORMAL	KEYWORD3
+EQ_POP	KEYWORD3
+EQ_ROCK	KEYWORD3
+EQ_JAZZ	KEYWORD3
+EQ_CLASSIC	KEYWORD3
+REPEAT	KEYWORD3
+SINGLE	KEYWORD3
+SLEEP	KEYWORD3
+RESET	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+somobyte	KEYWORD2
+Command	KEYWORD2
+LastCommand	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
