@@ -4,6 +4,8 @@
 
 SOMO Library for the gen4-IoD and IoD-09 by 4D Systems
 
+This library is not limited to the IoD's, and should work on any Arduino, any pin. It has been tested on Uno, Leornardo, Mega and all worked ok. By default it works on GPIO16 of the ESP8266 (used on the IoD modules) but if you put a pin number in the begin(pin) it can use any pin for any Arduino.
+
 Please refer to the gen4-IoD or IoD-09 Datasheets and supporting library / library documentation for GFX4D/GFX4DIoD9 for more information.
 
 [gen4-IoD Product Page](http://www.4dsystems.com.au/product/gen4-IoD/)
